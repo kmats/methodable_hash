@@ -1,6 +1,6 @@
 # MethodableHash
 
-TODO: Write a gem description
+This is an extension of Hash, and enable to use key-value like method.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    require 'methodable_hash'
 
 ## Contributing
 
